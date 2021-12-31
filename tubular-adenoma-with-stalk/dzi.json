@@ -1,0 +1,44 @@
+{
+	"size": {
+		"width": 53788.8,
+		"height": 36700
+ },
+	"version": "2.3 (xx)",
+	"id": "0A7A686B8552F69CBC8DD1B2A9C58B2A",
+	"slideNames": {
+		"scan": "anon54qusg1ui_1_1.svs.dzi",
+		"display": "anon54qusg1ui_1_1.svs.dzi"
+ },
+	"tileSize": 1024,
+	"tileFormat": "jpg",
+	"resolution": 0.5044,
+	"highResAreas": [
+		{
+			"x": 0,
+			"y": 0,
+			"width": 54272,
+			"height": 36864
+		}
+	],
+	"zoom": {
+		"min": 8,
+		"max": 16
+ },
+	"zStacks": {
+		"min": 0,
+		"max": 0,
+		"default": 0,
+		"zlevels": {
+			"0": "z_0.dzi"
+		}
+	},
+	"IISIntern": {
+		"conversionRoiMu": {
+			"x": 0,
+			"y": 0,
+			"width": 27131.1,
+			"height": 18511.5
+		}
+	},
+	"date": "2021-12-31T20:40:10"
+}
